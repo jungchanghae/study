@@ -1,6 +1,6 @@
 # Leet Code
 
-## Source
+## Problem List
 
 - [Arithmetic_Subarrays](./Arithmetic_Subarrays.py)(#1630) : Medium, Array, Sorting (23.11.23)
 
