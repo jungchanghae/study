@@ -1,4 +1,12 @@
-# study_alg
-python-study
+# study_algorithms
 
-알고리즘 공부를 하는 코드와 정리 자료들을 올리는 
+Every day, I use Python to solve one or more algorithmic problems.
+
+Legacy [dir](/legacy/) (~ May 11, 2022)
+
+
+### Solve List
+
+### [Baekjoon](/baekjoon) TBD
+
+### [Leet Code](/leetcode)
