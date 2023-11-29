@@ -7,6 +7,8 @@
 - [Sum of Absolute Differences in a Sorted Array](./sum_of_absolute_differences_in_a_sorted_array.py) (#1685) : Medium | Array, Math, Prefix Sum (23.11.25)
 - [Knight Dialer](./knight_dialer.py) (#935) : Medium | Dynamic Programming (23.11.26)
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
+- [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
+
 
 
 ## Topic
@@ -84,6 +86,24 @@
 <div markdown="1">
 
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
+
+</div>
+</details>
+
+<details> 
+<summary>Divide and Conquer</summary>
+<div markdown="1">
+
+- [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
+
+</div>
+</details>
+
+<details> 
+<summary>Bit Manipulation</summary>
+<div markdown="1">
+
+- [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
 
 </div>
 </details>

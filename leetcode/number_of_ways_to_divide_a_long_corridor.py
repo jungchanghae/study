@@ -16,10 +16,6 @@ class Solution(object):
         :type corridor: str
         :rtype: int
         """
-        if corridor.count('S') <= 1 or corridor.count('S') % 2 != 0:
-            return 0
-        elif corridor.count('S') == 2:
-            return 1
         count = 1
         seat_num = 0
         prev_seat_ind = 0
@@ -29,6 +25,10 @@ class Solution(object):
                 if seat_num > 2 and seat_num % 2 == 1:
                     count = count * (i-prev_seat_ind)
                 prev_seat_ind = i
+        if seat_num == 2:
+            return 1
+        elif seat_num < 2 or seat_num % 2 == 1:
+            return 0
         return count % (10**9 + 7)
         
         # "SPS|PPSSPSSSS" 2
