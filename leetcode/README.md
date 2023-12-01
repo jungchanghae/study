@@ -8,6 +8,8 @@
 - [Knight Dialer](./knight_dialer.py) (#935) : Medium | Dynamic Programming (23.11.26)
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
 - [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
+- [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
+
 
 
 
@@ -77,6 +79,7 @@
 
 - [Knight Dialer](./knight_dialer.py) (#935) : Medium | Dynamic Programming (23.11.26)
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
+- [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
 
 </div>
 </details>
@@ -104,6 +107,24 @@
 <div markdown="1">
 
 - [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
+
+</div>
+</details>
+
+<details> 
+<summary>Bit Manipulation</summary>
+<div markdown="1">
+
+- [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
+
+</div>
+</details>
+
+<details> 
+<summary>Memoization</summary>
+<div markdown="1">
+
+- [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
 
 </div>
 </details>
