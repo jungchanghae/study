@@ -11,6 +11,8 @@
 - [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
+- [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
+
 
 
 
@@ -24,6 +26,7 @@
 - [Sum of Absolute Differences in a Sorted Array](./sum_of_absolute_differences_in_a_sorted_array.py) (#1685) : Medium | Array, Math, Prefix Sum (23.11.25)
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
+- [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
 
 </div>
 </details>
@@ -68,6 +71,15 @@
 </details>
 
 <details> 
+<summary>Geometry</summary>
+<div markdown="1">
+
+- [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
+
+</div>
+</details>
+
+<details> 
 <summary>Greedy</summary>
 <div markdown="1">
 
@@ -92,6 +104,7 @@
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
 - [Sum of Absolute Differences in a Sorted Array](./sum_of_absolute_differences_in_a_sorted_array.py) (#1685) : Medium | Array, Math, Prefix Sum (23.11.25)
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
+- [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
 
 </div>
 </details>
