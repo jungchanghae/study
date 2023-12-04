@@ -12,7 +12,7 @@
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
-
+- [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
 
 
 
@@ -144,6 +144,7 @@
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
+- [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
 
 </div>
 </details>
