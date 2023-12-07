@@ -15,6 +15,7 @@
 - [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
 - [Count of Matches in Tournament](./count_of_matches_in_tournament.py) (#1688) : Easy | Math, Simulation (23.12.05)
 - [Calculate Money in Leetcode Bank](./calculate_money_in_leetcode_bank.py) (#1716) : Easy | Math (23.12.06)
+- [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 
 
 
@@ -87,6 +88,7 @@
 <div markdown="1">
 
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
+- [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 
 </div>
 </details>
@@ -110,6 +112,7 @@
 - [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
 - [Count of Matches in Tournament](./count_of_matches_in_tournament.py) (#1688) : Easy | Math, Simulation (23.12.05)
 - [Calculate Money in Leetcode Bank](./calculate_money_in_leetcode_bank.py) (#1716) : Easy | Math (23.12.06)
+- [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 
 </div>
 </details>
@@ -159,6 +162,7 @@
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
+- [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 
 </div>
 </details>
