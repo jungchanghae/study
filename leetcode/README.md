@@ -16,6 +16,7 @@
 - [Count of Matches in Tournament](./count_of_matches_in_tournament.py) (#1688) : Easy | Math, Simulation (23.12.05)
 - [Calculate Money in Leetcode Bank](./calculate_money_in_leetcode_bank.py) (#1716) : Easy | Math (23.12.06)
 - [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 
 
@@ -31,6 +32,7 @@
 - [Check If Two String Arrays are Equivalent](./check_if_two_string_arrays_are_equivalent.py) (#1662) : Easy | Array, String (23.12.01)
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
@@ -41,6 +43,7 @@
 
 - [Number of 1 Bits](./number_of_1_bits.py) (#191) : Easy | Divide and Conquer, Bit Manipulation (23.11.28)
 - [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
@@ -61,6 +64,7 @@
 - [Knight Dialer](./knight_dialer.py) (#935) : Medium | Dynamic Programming (23.11.26)
 - [Number of Ways to Divide a Long Corridor](./number_of_ways_to_divide_a_long_corridor.py) (#2147) : Hard | Math, String, Dynamic Programming (23.11.27)
 - [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
@@ -89,6 +93,7 @@
 
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
 - [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
@@ -150,6 +155,7 @@
 
 - [Arithmetic_Subarrays](./arithmetic_subarrays.py)(#1630) : Medium, Array, Sorting (23.11.23)
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
@@ -163,6 +169,15 @@
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
 - [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
+
+</div>
+</details>
+
+<details> 
+<summary>Tree</summary>
+<div markdown="1">
+
+- [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 
 </div>
 </details>
