@@ -18,8 +18,7 @@
 - [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
-
-
+- [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 
 
 ## Topic
@@ -35,6 +34,7 @@
 - [Minimum Time Visiting All Points](./minimum_time_visiting_all_points.py) (#1266) : Easy | Array, Math, Geometry (23.12.03)
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
+- [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 
 </div>
 </details>
@@ -44,6 +44,7 @@
 <div markdown="1">
 
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
+- [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 
 </div>
 </details>
@@ -56,6 +57,7 @@
 - [Minimum One Bit Operations to Make Integers Zero](./minimum_one_bit_operations_to_make_integers_zero.py) (#1611) : Hard | Dynamic Programming, Bit Manipulation, Memoization (23.12.01)
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
+- [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 
 </div>
 </details>
