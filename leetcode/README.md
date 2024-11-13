@@ -19,6 +19,7 @@
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 
 
 ## Topic
@@ -35,6 +36,7 @@
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 
 </div>
 </details>
@@ -45,6 +47,15 @@
 
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
+
+</div>
+</details>
+
+<details> 
+<summary>Binary Search</summary>
+<div markdown="1">
+
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 
 </div>
 </details>
@@ -189,6 +200,7 @@
 - [Arithmetic_Subarrays](./arithmetic_subarrays.py)(#1630) : Medium, Array, Sorting (23.11.23)
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 
 </div>
 </details>
@@ -211,6 +223,15 @@
 <div markdown="1">
 
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
+
+</div>
+</details>
+
+<details> 
+<summary>Two Pointers</summary>
+<div markdown="1">
+
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 
 </div>
 </details>
