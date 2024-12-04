@@ -19,7 +19,8 @@
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
-- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#2563) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
 
 
 ## Topic
@@ -214,6 +215,7 @@
 - [Find Words That Can Be Formed by Characters](./find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Largest 3-Same-Digit Number in String](./largest_3-same-digit_number_in_string.py) (#2264) : Easy | String (23.12.04)
 - [Largest Odd Number in String](./largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
+- [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
 
 </div>
 </details>
@@ -232,6 +234,7 @@
 <div markdown="1">
 
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
 
 </div>
 </details>
