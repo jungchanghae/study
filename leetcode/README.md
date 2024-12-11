@@ -21,6 +21,7 @@
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#2563) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
+- [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 
 
 ## Topic
@@ -38,6 +39,7 @@
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 
 </div>
 </details>
@@ -57,6 +59,7 @@
 <div markdown="1">
 
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 
 </div>
 </details>
@@ -195,6 +198,15 @@
 </details>
 
 <details> 
+<summary>Sliding Window</summary>
+<div markdown="1">
+
+- [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+
+</div>
+</details>
+
+<details> 
 <summary>Sorting</summary>
 <div markdown="1">
 
@@ -202,6 +214,7 @@
 - [Maximum Number of Coins You Can Get](./maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
+- [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 
 </div>
 </details>
