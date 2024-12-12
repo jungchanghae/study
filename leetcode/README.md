@@ -30,6 +30,7 @@
 - [Biggest Single Number](./src/biggest-single-number.py) (#619) : Easy | Database (24.12.12)
 - [Trips and Users](./src/trips-and-users.py) (#262) : Hard | Database (24.12.12)
 - [Department Top Three Salaries](./src/department-top-three-salaries.py) (#185) : Hard | Database (24.12.12)
+- [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
 
 
 ## Topic
