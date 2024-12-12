@@ -23,6 +23,7 @@
 - [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
 - [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 - [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
+- [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
 
 
 ## Topic
@@ -62,6 +63,7 @@
 
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+- [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
 
 </div>
 </details>
@@ -84,6 +86,15 @@
 <div markdown="1">
 
 - [Sum of All Subset XOR Totals](./sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
+
+</div>
+</details>
+
+<details>
+<summary> Depth-First Search </summary>
+<div markdown="1">
+
+- [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
 
 </div>
 </details>
@@ -231,6 +242,15 @@
 </div>
 </details>
 
+<details>
+<summary> Stack </summary>
+<div markdown="1">
+
+- [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
+
+</div>
+</details>
+
 <details> 
 <summary>String</summary>
 <div markdown="1">
@@ -250,6 +270,7 @@
 <div markdown="1">
 
 - [Find the Maximum Sum of Node Values](./find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
+- [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
 
 </div>
 </details>
