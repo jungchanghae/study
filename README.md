@@ -7,6 +7,6 @@ Legacy [dir](/legacy/) (~ May 11, 2022)
 
 ### Solve List
 
-### [Baekjoon](/baekjoon) TBD
+### [Baekjoon](/baekjoon) [Not yet]
 
 ### [Leet Code](/leetcode)
