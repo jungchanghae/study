@@ -9,8 +9,6 @@ The resulting table should have the machine_id along with the average time as pr
 Return the result table in any order.
 
 The result format is in the following example.
-
-
 """
 
 import pandas as pd
