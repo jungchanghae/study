@@ -28,6 +28,7 @@
 - [Average Time of Process per Machine](./average-time-of-process-per-machine.py) (#1661) : Easy | Database (24.12.12)
 - [Patients With a Condition](./patients-with-a-condition.py) (#1527) : Easy | Database (24.12.12)
 - [Biggest Single Number](./biggest-single-number.py) (#619) : Easy | Database (24.12.12)
+- [Trips and Users](./trips-and-users.py) (#262) : Hard | Database (24.12.12)
 
 
 ## Topic
