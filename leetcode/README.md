@@ -25,6 +25,7 @@
 - [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 - [Binary Tree Inorder Traversal](./binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
 - [Consecutive Numbers](./consecutive-numbers.py) (#180) : Midium | Database (24.12.12)
+- [Average Time of Process per Machine](./average-time-of-process-per-machine.py) (#1661) : Easy | Database (24.12.12)
 
 
 ## Topic
@@ -96,6 +97,7 @@
 <div markdown="1">
 
 - [Consecutive Numbers](./consecutive-numbers.py) (#180) : Midium | Database (24.12.12)
+- [Average Time of Process per Machine](./average-time-of-process-per-machine.py) (#1661) : Easy | Database (24.12.12)
 
 </div>
 </details>
