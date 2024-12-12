@@ -22,6 +22,7 @@
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#2563) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Make String a Subsequence Using Cyclic Increments](./make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
 - [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+- [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 
 
 ## Topic
@@ -40,6 +41,7 @@
 - [Subsets](./subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
 - [Count the Number of Fair Pairs](./count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Maximum Beauty of an Array After Applying Operation](./maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+- [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 
 </div>
 </details>
@@ -155,6 +157,15 @@
 </details>
 
 <details> 
+<summary>Heap (Priority Queue)</summary>
+<div markdown="1">
+
+- [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
+
+</div>
+</details>
+
+<details> 
 <summary>Math</summary>
 <div markdown="1">
 
@@ -193,6 +204,7 @@
 <div markdown="1">
 
 - [Count of Matches in Tournament](./count_of_matches_in_tournament.py) (#1688) : Easy | Math, Simulation (23.12.05)
+- [Take Gifts From the Richest Pile](./take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 
 </div>
 </details>
