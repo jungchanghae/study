@@ -31,7 +31,7 @@
 - [Trips and Users](./src/trips-and-users.py) (#262) : Hard | Database (24.12.12)
 - [Department Top Three Salaries](./src/department-top-three-salaries.py) (#185) : Hard | Database (24.12.12)
 - [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
-
+- [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 
 ## Topic
 <details> 
@@ -50,6 +50,7 @@
 - [Count the Number of Fair Pairs](./src/count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Maximum Beauty of an Array After Applying Operation](./src/maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 - [Take Gifts From the Richest Pile](./src/take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
+- [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 
 </div>
 </details>
@@ -107,6 +108,7 @@
 - [Biggest Single Number](./src/biggest-single-number.py) (#619) : Easy | Database (24.12.12)
 - [Trips and Users](./src/trips-and-users.py) (#262) : Hard | Database (24.12.12)
 - [Department Top Three Salaries](./src/department-top-three-salaries.py) (#185) : Hard | Database (24.12.12)
+- [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
 
 </div>
 </details>
@@ -175,6 +177,7 @@
 - [Maximum Number of Coins You Can Get](./src/maximum_number_of_coins.py) (#1561) : Medium | Array, Math, Greedy, Sorting, Game Theory (23.11.24)
 - [Largest Odd Number in String](./src/largest_odd_number_in_string.py) (#1903) : Easy | Math, String, Greedy (23.12.07)
 - [Find the Maximum Sum of Node Values](./src/find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
+- [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 
 </div>
 </details>
@@ -237,6 +240,7 @@
 
 - [Count of Matches in Tournament](./src/count_of_matches_in_tournament.py) (#1688) : Easy | Math, Simulation (23.12.05)
 - [Take Gifts From the Richest Pile](./src/take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
+- [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 
 </div>
 </details>
@@ -259,6 +263,7 @@
 - [Find the Maximum Sum of Node Values](./src/find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Count the Number of Fair Pairs](./src/count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Maximum Beauty of an Array After Applying Operation](./src/maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+- [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 
 </div>
 </details>
