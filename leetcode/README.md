@@ -32,6 +32,7 @@
 - [Department Top Three Salaries](./src/department-top-three-salaries.py) (#185) : Hard | Database (24.12.12)
 - [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
+- [First Letter Capitalization II](./src/first-letter-capitalization-ii.py) (#3374) : Hard | Database (24.12.13)
 
 ## Topic
 <details> 
@@ -109,6 +110,7 @@
 - [Trips and Users](./src/trips-and-users.py) (#262) : Hard | Database (24.12.12)
 - [Department Top Three Salaries](./src/department-top-three-salaries.py) (#185) : Hard | Database (24.12.12)
 - [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
+- [First Letter Capitalization II](./src/first-letter-capitalization-ii.py) (#3374) : Hard | Database (24.12.13)
 
 </div>
 </details>
