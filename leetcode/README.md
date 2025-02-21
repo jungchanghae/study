@@ -33,6 +33,7 @@
 - [Human Traffic of Stadium](./src/human-traffic-of-stadium.py) (#601) : Hard | Database (24.12.12)
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 - [First Letter Capitalization II](./src/first-letter-capitalization-ii.py) (#3374) : Hard | Database (24.12.13)
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 
 ## Topic
 <details> 
@@ -78,6 +79,15 @@
 </details>
 
 <details> 
+<summary>Binary Tree</summary>
+<div markdown="1">
+
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
+
+</div>
+</details>
+
+<details> 
 <summary>Bit Manipulation</summary>
 <div markdown="1">
 
@@ -86,6 +96,15 @@
 - [Find the Maximum Sum of Node Values](./src/find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Sum of All Subset XOR Totals](./src/sum_of_all_subset_XOR_totals.py) (#1863) : Easy | Array, Math, Backtracking, Bit Manipulation, Combinatorics, Enumeration (24.05.20)
 - [Subsets](./src/subsets.py) (#78) : Midium | Array, Backtracking, Bit Manipulation (24.05.21)
+
+</div>
+</details>
+
+<details> 
+<summary>Breadth-First Search</summary>
+<div markdown="1">
+
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 
 </div>
 </details>
@@ -115,11 +134,21 @@
 </div>
 </details>
 
+<details> 
+<summary>Design</summary>
+<div markdown="1">
+
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
+
+</div>
+</details>
+
 <details>
 <summary> Depth-First Search </summary>
 <div markdown="1">
 
 - [Binary Tree Inorder Traversal](./src/binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 
 </div>
 </details>
@@ -189,6 +218,7 @@
 <div markdown="1">
 
 - [Find Words That Can Be Formed by Characters](./src/find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 
 </div>
 </details>
@@ -299,6 +329,7 @@
 
 - [Find the Maximum Sum of Node Values](./src/find_the_maximum_sum_of_node_values.py) (#3068) : Hard | Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting (24.05.19)
 - [Binary Tree Inorder Traversal](./src/binary-tree-inorder-traversal.py) (#94) : Easy | Stack, Tree, Depth-First Search, Binary Tree (24.12.12)
+- [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 
 </div>
 </details>
