@@ -36,6 +36,7 @@
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.23)
 - [Recover a Tree From Preorder Traversal](./src/recover_a_tree_from_preorder_traversal.py) (#1028) : Hard | String, Tree, Depth-First Search, Binary Tree (25.02.23)
+- [Two Sum](./src/two_sum) (#1) : Easy | Array, Hash Table (25.02.23)
 
 ## Topic
 <details> 
@@ -56,6 +57,7 @@
 - [Take Gifts From the Richest Pile](./src/take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
+- [Two Sum](./src/two_sum) (#1) : Easy | Array, Hash Table (25.02.23)
 
 </div>
 </details>
@@ -225,6 +227,7 @@
 - [Find Words That Can Be Formed by Characters](./src/find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
+- [Two Sum](./src/two_sum.py) (#1) : Easy | Array, Hash Table (25.02.23)
 
 </div>
 </details>
