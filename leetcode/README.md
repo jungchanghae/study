@@ -34,6 +34,7 @@
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 - [First Letter Capitalization II](./src/first-letter-capitalization-ii.py) (#3374) : Hard | Database (24.12.13)
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
+- [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
 
 ## Topic
 <details> 
@@ -53,6 +54,7 @@
 - [Maximum Beauty of an Array After Applying Operation](./src/maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
 - [Take Gifts From the Richest Pile](./src/take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
+- [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
 
 </div>
 </details>
@@ -219,6 +221,7 @@
 
 - [Find Words That Can Be Formed by Characters](./src/find_words_that_can_be_formed_by_characters.py) (#1160) : Easy | Array, Hash Table, String (23.12.02)
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
+- [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
 
 </div>
 </details>
@@ -282,6 +285,7 @@
 <div markdown="1">
 
 - [Maximum Beauty of an Array After Applying Operation](./src/maximum-beauty-of-an-array-after-applying-operation.py) (#2779) : Midium | Array, Binary Search, Sliding Window, Sorting (24.12.11)
+- [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
 
 </div>
 </details>
