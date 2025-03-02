@@ -36,7 +36,8 @@
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.23)
 - [Recover a Tree From Preorder Traversal](./src/recover_a_tree_from_preorder_traversal.py) (#1028) : Hard | String, Tree, Depth-First Search, Binary Tree (25.02.23)
-- [Two Sum](./src/two_sum) (#1) : Easy | Array, Hash Table (25.02.23)
+- [Two Sum](./src/two_sum.py) (#1) : Easy | Array, Hash Table (25.02.23)
+- [Merge Two 2D Arrays by Summing Values](./src/merge_two_2d_arrays_by_summing_values.py) (#2570) : Easy | Array, Hash Table, Two Pointers (25.03.02)
 
 ## Topic
 <details> 
@@ -57,7 +58,8 @@
 - [Take Gifts From the Richest Pile](./src/take-gifts-from-the-richest-pile.py) (#2558) : Easy | Array, Heap (Priority Queue), Simulation (24.12.12)
 - [Find Score of an Array After Marking All Elements](./src/find-score-of-an-array-after-marking-all-elements.py) (#2593) : Medium | Sorting, Array, Simulation, Greedy (24.12.13)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
-- [Two Sum](./src/two_sum) (#1) : Easy | Array, Hash Table (25.02.23)
+- [Two Sum](./src/two_sum.py) (#1) : Easy | Array, Hash Table (25.02.23)
+- [Merge Two 2D Arrays by Summing Values](./src/merge_two_2d_arrays_by_summing_values.py) (#2570) : Easy | Array, Hash Table, Two Pointers (25.03.02)
 
 </div>
 </details>
@@ -228,8 +230,8 @@
 - [Find Elements in a Contaminated Binary Tree](./src/find_elements_in_a_contaminated_binary_tree.py) (#1261) : Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree (25.02.21)
 - [Maximum Sum of Distinct Subarrays With Length K](./src/maximum_sum_of_distinct_subarrays_with_length_k.py) (#2461) : Medium | Array, Hash Table, Sliding Window (25.02.21)
 - [Two Sum](./src/two_sum.py) (#1) : Easy | Array, Hash Table (25.02.23)
+- [Merge Two 2D Arrays by Summing Values](./src/merge_two_2d_arrays_by_summing_values.py) (#2570) : Easy | Array, Hash Table, Two Pointers (25.03.02)
 
-</div>
 </details>
 
 <details> 
@@ -352,6 +354,7 @@
 
 - [Count the Number of Fair Pairs](./src/count-the-number-of-fair-pairs.py) (#78) : Midium | Array, Two Pointers, Binary Search, Sorting (24.11.13)
 - [Make String a Subsequence Using Cyclic Increments](./src/make-string-a-subsequence-using-cyclic-increments.py) (#2825) : Midium | Two Pointers, String (24.12.04)
+- [Merge Two 2D Arrays by Summing Values](./src/merge_two_2d_arrays_by_summing_values.py) (#2570) : Easy | Array, Hash Table, Two Pointers (25.03.02)
 
 </div>
 </details>
